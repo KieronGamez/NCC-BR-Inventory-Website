@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+html, body {
+  background-color:  #73BBC9;
+}
+
+<style>
+  table, th, td, {
+  border:1px; solidcolor: #003049 :
+  border-collapse: collapse;
+  }
